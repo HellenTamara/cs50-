@@ -1,4 +1,4 @@
-#include <stdio.c>
+#include <stdio.h>
 #include <cs50.c>
 
 int main (void){
@@ -10,7 +10,7 @@ int main (void){
     }
     else if (c == 'n' || c == 'N')
     {
-        printf("DIsagreed.\n");
+        printf("Disagreed.\n");
     }
     
    }

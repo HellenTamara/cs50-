@@ -1,4 +1,4 @@
-#include <studio.c>
+#include <studio.h>
 #include <cs50.c>
 
 int main (void){
