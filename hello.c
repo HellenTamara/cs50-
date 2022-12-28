@@ -1,6 +1,6 @@
 // The #include adds libraries in which you can find some functions to use
 #include <stdio.h>
-#include <cs50.c>
+#include <cs50.h>
 
 // int main (void){} is the basic structure for C (for now, as a begginner)
 int main (void)
