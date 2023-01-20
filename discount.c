@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <cs50.h>
 
+<<<<<<< HEAD
+float discount (float price, int percentage_off);
+=======
+>>>>>>> 48bf9c2788e76a9986044ca09b2c605293942e0b
 
 float discount(float price, int percentage);
 
